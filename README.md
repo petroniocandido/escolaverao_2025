@@ -1,2 +1,2 @@
-# escolaverao_2025
-Minicurso de Programação Paralela e Distribuída Com GPUs
+# Minicurso de Programação Paralela e Distribuída Com GPUs
+## Escola de Verão 2025
